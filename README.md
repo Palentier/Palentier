@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Palentier</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=1AF7A4&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Palentier" alt="Typing SVG" /></a></h1>
 <h3 align="center">A front-end developer based in United States, Tennessee.</h3>
 
 <p align="left"> <a href="https://twitter.com/palentier_" target="blank"><img src="https://img.shields.io/twitter/follow/palentier_?logo=twitter&style=for-the-badge" alt="palentier_" /></a> </p>
